@@ -1,0 +1,22 @@
+{
+  "name": "about-lea-lgbt",
+  "version": "1.0.0",
+  "description": "The about pages for the lea.lgbt mastodon instance",
+  "scripts": {
+    "dev": "eleventy --serve",
+    "build": "cross-env NODE_ENV=production eleventy"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.0",
+    "@11ty/eleventy-plugin-syntaxhighlight": "^4.2.0",
+    "cross-env": "^7.0.3",
+    "cssnano": "^5.1.15",
+    "html-minifier-terser": "^7.1.0",
+    "postcss": "^8.4.21",
+    "postcss-cli": "^10.1.0",
+    "postcss-import": "^15.1.0"
+  }
+}
