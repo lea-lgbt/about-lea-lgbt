@@ -3,7 +3,11 @@
   padding: 2rem;
   text-align: center;
   background: var(--footer-bg, #222);
-  color: vaar(--footer-fg, #fff);
+  color: var(--footer-fg, #fff);
+}
+
+.footer a {
+  color: var(--footer-fg, #fff);
 }
 
 .footer .nav__list {
