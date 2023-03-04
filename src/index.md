@@ -22,7 +22,7 @@ This website is created with [Eleventy](https://11ty.dev) and [PostCSS](https://
 
 Additionally, it uses fluid typography auto-generated via [Utopia](https://utopia.fyi).
 
-Kudos also go to Lene Saille and her [eleventy-excellent template](https://github.com/madrilene/eleventy-excellent) where I shamelessly copycatted the way to organize the configuration inside a `/config` folder and encapsulating things into eleventy plugins, and also the method of building the CSS styles directly via Eleventy. 
+Kudos also go to Lene Saile and her [eleventy-excellent template](https://github.com/madrilene/eleventy-excellent) where I shamelessly copycatted the way to organize the configuration inside a `/config` folder and encapsulating things into eleventy plugins, and also the method of building the CSS styles directly via Eleventy. 
 
 ## Financial support
 
