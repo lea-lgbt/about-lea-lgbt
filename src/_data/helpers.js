@@ -22,4 +22,8 @@ module.exports = {
 
     return response;
   },
+
+  getRandomAssetHash() {
+    return Math.random().toString(16).slice(2);
+  },
 };
