@@ -9,14 +9,14 @@ module.exports = {
         title: 'Code of Conduct',
         href: '/code-of-conduct',
       },
-      /* {
-        title: "Privacy",
-        href: "/privacy",
+      {
+        title: 'Privacy',
+        href: '/privacy',
       },
       {
-        title: "Imprint",
-        href: "/imprint",
-      }, */
+        title: 'Imprint',
+        href: '/imprint',
+      },
     ],
   },
 };

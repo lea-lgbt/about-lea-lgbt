@@ -60,9 +60,7 @@ code:not([class]) {
 
 article a:not([class]) {
   border-radius: .25rem;
-  padding: 0 .25rem;
   color: var(--link-fg);
-  text-decoration: none;
 }
 
 article a:not([class]):hover {
@@ -73,13 +71,14 @@ article a:not([class]):hover {
 
 h1, h2, h3, h4, h5 {
   color: var(--headline-fg);
+  line-height: 1.1;
 }
 
 h2:not(:first-child),
 h3:not(:first-child),
 h4:not(:first-child),
 h5:not(:first-child) {
-  margin-block-start: 4rem!important;
+  margin-block-start: 3rem!important;
 }
 
 .small {

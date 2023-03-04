@@ -1,31 +1,24 @@
 :root {
 
-  --bg: #fff;
-  --fg: #121212;
+  --bg: #121212;
+  --fg: #fff;
 
-  --headline-fg: #936;
+  --headline-fg: #f7c;
 
-  --link-fg: #13c;
-  --link-hover-bg: #f0f0ff;
-  --link-hover-fg: #24d;
+  --link-fg: #7df;
+  --link-hover-bg: #202050;
+  --link-hover-fg: #aef;
 
-  --header-bg: #639;
+  --header-bg: #435;
   --header-fg: #fff;
 
-  --footer-bg: #232323;
+  --footer-bg: #333;
   --footer-fg: #fff;
 
-  --code-fg: #070;
-  --code-bg: #f0f0f0;
+  --code-fg: #9f7;
+  --code-bg: #000;
 
-  --card-brd: #ccc;
-  --card-bg: #f0f0f0;
-  --card-fg: #121212;
-  --card-headline: 
   --outline-color: #336;
-
-  --chip-bg: #fafafa;
-  --chip-fg: #444444;
 
   --button-bg: #993366;
   --button-fg: #ffffff;
@@ -38,3 +31,35 @@
 }
 
 
+@media (prefers-color-scheme: light) {
+  :root {
+    --bg: #fefefe;
+    --fg: #121212;
+
+    --headline-fg: #926;
+
+    --link-fg: #13c;
+    --link-hover-bg: #f0f0ff;
+    --link-hover-fg: #24d;
+  
+    --header-bg: #f9e;
+    --header-fg: #423;
+  
+    --footer-bg: #efefef;
+    --footer-fg: #333;
+  
+    --code-fg: #070;
+    --code-bg: #f0f0f0;
+  
+    --outline-color: #336;
+  
+    --button-bg: #993366;
+    --button-fg: #ffffff;
+  
+    --button-hover-bg: #aa4477;
+    --button-hover-fg: #ffffff;
+  
+    --button-active-bg: #444455;
+    --button-active-fg: #ffffff;
+  }
+}

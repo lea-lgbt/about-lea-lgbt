@@ -5,4 +5,7 @@ body {
   gap: 1.5rem;
   flex-direction: column;
   min-height: 100dvh;
+
+  background: var(--bg);
+  color: var(--fg);
 }

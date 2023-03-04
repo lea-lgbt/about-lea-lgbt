@@ -7,9 +7,7 @@
 @import "./components/_header.css";
 @import "./components/_footer.css";
 @import "./components/_nav.css";
-@import "./components/_side-nav.css";
 @import "./components/_button.css";
-@import "./components/_card.css";
 
 @import "./utils/_flow.css";
 @import "./utils/_visually-hidden.css";

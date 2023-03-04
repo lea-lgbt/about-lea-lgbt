@@ -4,16 +4,20 @@
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
-  background: var(--header-bg, #222);
+  gap: 2rem;
+  background: var(--header-bg, #000);
   color: var(--header-fg, #fff);
 }
 
 .header__logo {
-  display: block;
-  width: 128px;
-  height: 30px;
   border-radius: 4px;
   flex: 0 0 auto;
+}
+
+.header__logo svg {
+  display: block;
+  width: 256px;
+  height: 60px;
 }
 
 .header__title {
@@ -38,6 +42,6 @@
 }
 
 .header *:focus {
-  outline: 2px solid var(--header-fg);
-  outline-offset: 2px;
+  outline: 3px solid var(--header-fg, #fff);
+  outline-offset: 3px;
 }

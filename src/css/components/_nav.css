@@ -14,8 +14,13 @@
   display: block;
   padding: 0.75rem;
   color: var(--header-fg, #fff);
-  text-decoration: none;
   border-radius: 4px;
+}
+
+.nav__link[aria-current="page"],
+.nav__link[data-state="active"] {
+  background: var(--header-fg, #412);
+  color: var(--header-bg, #fff);
 }
 
 .nav__link svg {
