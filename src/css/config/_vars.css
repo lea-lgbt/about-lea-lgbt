@@ -3,7 +3,7 @@
   --bg: #121212;
   --fg: #fff;
 
-  --headline-fg: #f7c;
+  --headline-fg: #fae;
 
   --link-fg: #7df;
   --link-hover-bg: #202050;
@@ -11,7 +11,7 @@
 
   --header-bg: #435;
   --header-fg: #fff;
-
+  
   --footer-bg: #333;
   --footer-fg: #fff;
 
@@ -36,14 +36,14 @@
     --bg: #fefefe;
     --fg: #121212;
 
-    --headline-fg: #926;
+    --headline-fg: #c06;
 
     --link-fg: #13c;
     --link-hover-bg: #f0f0ff;
     --link-hover-fg: #24d;
   
-    --header-bg: #f9e;
-    --header-fg: #423;
+    --header-bg: #fce;
+    --header-fg: #825;
   
     --footer-bg: #efefef;
     --footer-fg: #333;

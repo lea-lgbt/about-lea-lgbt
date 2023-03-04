@@ -1,5 +1,5 @@
 .header {
-  margin-block-end: 2rem;
+  margin-block-end: 4rem;
   padding: 2rem;
   display: flex;
   justify-content: space-between;
@@ -7,6 +7,15 @@
   gap: 2rem;
   background: var(--header-bg, #000);
   color: var(--header-fg, #fff);
+  position: relative;
+}
+
+.header__curves {
+  margin: 2rem -2rem -2rem -2rem;
+  width: 100vw;
+  height: 4rem;
+  color: var(--header-bg, #000);
+  background: var(--bg, #fff);
 }
 
 .header__logo {
@@ -45,3 +54,4 @@
   outline: 3px solid var(--header-fg, #fff);
   outline-offset: 3px;
 }
+
