@@ -12,7 +12,7 @@ I ([Lea](https://lea.codes/), she/her) pledge to making participation in our com
 
 ### Unacceptable behavior
 
-- <strong>trans hostility</strong> (aka "TERF" content)
+- trans hostility (aka "TERF" content)
 - anti sex-work content (aka "SWERF" content)
 - fashism or racism
 - ableism
