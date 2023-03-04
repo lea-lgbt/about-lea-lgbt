@@ -5,7 +5,7 @@ layout: "layouts/article.njk"
 
 # Welcome to lea.lgbt
 
-This are the about pages of [lea.lgbt](https://lea.lgbt), a mastodon instance.
+These are the about pages of [lea.lgbt](https://lea.lgbt), a mastodon instance.
 
 ## Why the name "lea.lgbt"?
 
