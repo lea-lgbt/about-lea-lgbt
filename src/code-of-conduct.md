@@ -4,16 +4,16 @@ layout: "layouts/article.njk"
 ---
 # Code of Conduct
 
-## My Pledge
+## Pledge
 
-I ([Lea](https://lea.codes/), she/her) pledge to making participation in our community a welcoming and harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
+I ([Lea](https://lea.codes/), she/her) want to make this community a welcoming and harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
 ## Content rules and best practices
 
 ### Unacceptable behavior
 
-- trans hostility (aka "TERF" content)
-- anti sex-work content (aka "SWERF" content)
+- trans hostility (aka <abbr title="Trans Exclusionary Radical Feminism">"TERF"</abbr> content)
+- anti sex-work content (aka <abbr title="Sex Worker Exclusionary Radical Feminism">"SWERF"</abbr> content)
 - fashism or racism
 - ableism
 - misogyny
@@ -31,7 +31,7 @@ I ([Lea](https://lea.codes/), she/her) pledge to making participation in our com
 - content that is illegal in Germany
 - content related to crypto currencies
 
-### Content of other people
+### Other peoples' content
 
 - when posting other peoples' content, do so only on consent of the author
 - respect their privacy

@@ -10,6 +10,8 @@ module.exports = function (config) {
   config.addPlugin(pluginPostCSS);
   config.addPlugin(pluginHtmlTransform);
 
+  config.addPassthroughCopy({ 'src/favicon': '/' });
+
   // Return your Object options:
   return {
     markdownTemplateEngine: 'njk',
