@@ -16,6 +16,6 @@
     </linearGradient>
   </defs>
   <g stroke="currentColor" stroke-width="4" fill="url(#transPride)" stroke-lineJoin="round" filter="url(#shadow)">
-    <path d="M30 6 v100 h60 v-20 h-40v-80z"></path>
+    <path d="M20 6v100h80v-40h-40v-60z"/>
   </g>
 </svg>
