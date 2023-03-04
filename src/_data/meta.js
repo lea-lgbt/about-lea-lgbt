@@ -4,5 +4,5 @@ module.exports = {
   url: process.env.URL || '',
   siteName: 'About lea.lgbt',
   copyright:
-    'Made with <span aria-hidden="true">💖</span><span class="visually-hidden">love</span> by <a href="https://lea.lgbt/@lea" target="_blank" rel="noopener noreferrer">Lea Rosema</a>',
+    'Made with <span aria-hidden="true">💖</span><span class="visually-hidden">love</span> by <a rel="me" href="https://lea.lgbt/@lea" target="_blank" rel="noopener noreferrer">Lea Rosema</a>',
 };
